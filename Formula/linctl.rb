@@ -1,8 +1,8 @@
 class Linctl < Formula
   desc "Comprehensive command-line interface for Linear's API"
   homepage "https://github.com/hasdfa/linctl"
-  url "https://github.com/hasdfa/linctl/archive/refs/tags/v0.2.1.zip"
-  sha256 "1cff9bfe4bac4a3830dce8ae14de1ee562cae006c3758eabe9db7820fc599cd7"
+  url "https://github.com/hasdfa/linctl/archive/refs/tags/v0.2.2.zip"
+  sha256 "72f268b7db392e2c990fce3b50c9aa1684eebce38123c7bbd27252eb5661ce2a"
   license "MIT"
   head "https://github.com/hasdfa/linctl.git", branch: "master"
 
