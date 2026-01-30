@@ -6,7 +6,7 @@ This is a [Homebrew](https://brew.sh) tap for [linctl](https://github.com/hasdfa
 
 ```bash
 brew tap hasdfa/linctl
-brew install linctl
+brew install hasdfa/linctl/linctl
 ```
 
 ## 📦 Available Formulae
